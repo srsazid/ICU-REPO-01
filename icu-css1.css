@@ -1,1 +1,71 @@
-#icu-repo-01
+.maindiv1th{
+    width: 1280px;
+    display: auto;
+}
+
+
+
+.topbar{
+    background-color: aqua;
+    background-attachment: fixed;
+   
+}
+
+
+.srlogo{
+    width: 150px;
+    padding: 50px;
+    margin-left: 20px;
+    display:inline;
+}
+
+.wlcmdiv1{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    float: right;
+    font-family: Arial;
+    margin-top: 48px;
+    margin-right: 206px;
+}
+
+.slogan{
+    color: rgb(56, 58, 57);
+    margin-right: 80px;
+    text-align: right;
+    padding-bottom: 15px;
+}
+
+
+
+.contact2{
+    background-color: gray;
+    padding: 15px;
+}
+
+.phone{
+    font-size: 16px;
+    font-family:Arial;
+    display: inline;
+    margin-left: 20px;
+    margin-right: 10px;
+    
+}
+
+.email{
+    display: inline;
+    font-size: 16px;
+    font-family:Arial;
+    display: inline;
+    margin-left: 40px;
+    border-left:2px solid black;
+    padding-top: 15px;
+    padding-bottom: 16px;
+    padding-right: 10px;
+}
+
+
+
+
+
+
